@@ -38,5 +38,5 @@ Implement as many options below as you can:
 - `commit`, `push`, and `deploy` after each task
 - Send a link to your `App.jsx` file to your personal channel (for example #fe_apr22_misha_hrynko)
 - Send a message about solving the next step after each `push` and `deploy` (e.g. Task 3 is done)
-- If you are done with the required tasks please proceed with solving the optional once
+- If you are done with the required tasks please proceed with solving the optional one
 - Stop when the time is over (typically 2.5 hours from the start)
